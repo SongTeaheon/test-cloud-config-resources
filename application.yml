@@ -1,4 +1,4 @@
 test:
   single: testsingle2
-  multiple: testMid1, testMid2, testMid3
+  multiple: testMid1
 
